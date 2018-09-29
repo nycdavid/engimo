@@ -7,6 +7,12 @@
     "tex2jax": {
       "inlineMath": [["$", "$"], ["\\(", "\\)"]],
       "processEscapes": true
+    },
+    "TeX": {
+      "equationNumbers": { 
+        "autoNumber": "AMS"
+      },
+      "extensions": ["AMSmath.js"]
     }
   }
 }
